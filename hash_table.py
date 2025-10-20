@@ -105,7 +105,7 @@ class HashTable:
                 print(f"Index {i}: {' '.join(parts)}")
 
 
-# ====== Simple Tests / Demo ======
+# Test
 if __name__ == "__main__":
     table = HashTable(10)
 
